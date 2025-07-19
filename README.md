@@ -35,8 +35,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BrunoRs22/BrunoRs22/output/snake.svg" alt="Snake animation" />
-
-###
