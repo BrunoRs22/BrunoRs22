@@ -28,9 +28,9 @@ Se você quiser se conectar para trocar ideia ou me contratar para encontrar kkk
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-Linguegem.C-333333?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus)
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
