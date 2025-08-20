@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, Eu sou Bruno Santos, um FullStack que gosta de resolver soluções reais!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-rafael-000786346/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Brunorafaeldossantos202@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:Brunorafaeldossantos202@gmail.com?subject=Questions"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
