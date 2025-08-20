@@ -1,8 +1,6 @@
-<h1>👋 &nbsp;Olá, Eu sou Bruno Santos, um FullStack que gosta de resolver soluções reais!</h1>
+<h1>👋 &nbsp;Olá, Eu sou Bruno Santos, um FullStack em aprendizado </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/bruno-rafael-000786346/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Brunorafaeldossantos202@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+  
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
@@ -24,11 +22,11 @@ Meus projetos:
   
 Se você quiser se conectar para trocar ideia ou me contratar para encontrar kkkkkk, entre em contato <a href="mailto:Brunorafaeldossantos202@gmail.com">clicando aqui para me enviar um email</a> ou no meu <a href="https://www.linkedin.com/in/bruno-rafael-000786346/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> 🛠 Estudando: </h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/css3.png" alt="css3"/>)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
@@ -41,6 +39,3 @@ Se você quiser se conectar para trocar ideia ou me contratar para encontrar kkk
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-<h2>🚀 &nbsp;Minhas estatísticas do GitHub</h2>
-
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victors21dev&show_icons=true&theme=dracula)
