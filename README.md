@@ -1,17 +1,17 @@
 <h1>👋 &nbsp;Olá, Eu sou Bruno Santos, um FullStack que gosta de resolver soluções reais!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-rafael-000786346/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Brunorafaeldossantos202@gmail.com?subject=Questions"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:Brunorafaeldossantos202@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
-Profissional de TI com quase 2 anos de experiência em suporte técnico e infraestrutura. Já atuei como estagiário, analista de infraestrutura júnior e também prestando suporte em programação para alunos de tecnologia. Em horas vagas já fui tutor autônomo de Excel e trabalhei voluntário ensinando minhas habilidades.
+Profissional de TI com mais de 2 anos de experiência em infraestrutura e suporte técnico. Atualmente, estou cursando Engenharia de Software e buscando expandir meus conhecimentos para atuar no desenvolvimento de soluções robustas.
 
-Desenvolvi soluções práticas, como modelos de planilhas usados em filiais de uma empresa e um app para geração de pulseiras hospitalares. Atualmente, curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento web como o React.
+Durante minha trajetória, aprimorei habilidades em infraestrutura de TI e aprendi a lidar com os desafios do dia a dia, prestando um suporte técnico eficiente. Sou motivado pela busca contínua por aprimoramento e por encontrar soluções que otimizem processos e melhorem a experiência do usuário.
 
-Sou movido por aprendizado contínuo.
+No momento, foco meus estudos em Engenharia de Software, o que me permite aprofundar minha visão sobre a arquitetura e a criação de sistemas. Minha paixão é aprender e aplicar novos conceitos para desenvolver projetos que façam a diferença.
 
 <h2> 📚 &nbsp;O que você encontrará aqui? </h2>
 
@@ -22,13 +22,13 @@ Meus projetos:
 - Pessoais
 - Projetos de cursos
   
-Se você quiser se conectar para trocar ima ideia ou me contratar para encontrar alguma solução, entre em contato <a href="mailto:Brunorafaeldossantos202@gmail.com">clicando aqui para me enviar um email</a> ou no meu <a href="https://www.linkedin.com/in/bruno-rafael-000786346/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
+Se você quiser se conectar para trocar ideia ou me contratar para encontrar kkkkkk, entre em contato <a href="mailto:Brunorafaeldossantos202@gmail.com">clicando aqui para me enviar um email</a> ou no meu <a href="https://www.linkedin.com/in/bruno-rafael-000786346/">LinkedIn</a>. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACVElEQVR4nO2ZP0gcQRTGPyEWYkTPgMQ0wWBhLExSKTZnESLBwipWUeFIJIWSwkCQiIWCiCHNpVIQ1CoRRCGGKAnYSGKhNgEb74qAFv7BgAZB7/RkZZBluHm3t/vGG8x88Jrbt983v92d25k7wMrKyuq66R+AVI7rkAMkbgBIjAPklwEgPzlAZg0AmeEAGTUAZIQDZMAAkH4OkC4DQDo5QFoMAHnGAdJABKyDT/tETpgj4D4RsM0RACAPQJLIqeIIuUUEJMQggqo4w6NVypBxMdATIqSEIeMu4X/CdLEutMU8eTck/wdE7yYYtcYMsiz5h4neVU6QeWaQr5J/M9H7jRNkghlkUvJvJ3rHOUHea34Lvyb8hjlB3mQB0uPDv4/w6+YEacsCZNCH/wfCr5UTpDELkI8+/McIvyecII+YJ/tzyX+a6H3ICXKHGaRJ8v9B9JZzgtwAcKoI+i311ngAqZfOWVH0nQHIB7P2FGF/pL5KDyDOitqtmKJvFxq0rgj7m2YlOwfgOE3vsTgmLzR3rmC/c6lFRVhSsToNAYgAWBAVEZ+lk2p1vQgN+kw8KjcD+BYSvp+gQVEi8JXPfUmJOFflG9XAgd4ME9h5xJbEuqmM8AmJlcIXxTxKueqdDpCXWbwn3FC3xVbV6+BTrnqhA4TaM6Qy7OsTPs9t1gFS53MwQapWB8i9HIBU6AChviZ1VSE0ybkrHQCmABxoGPgRgO8A3gKoxhWpAMBjAEPEos9LxcXfBs7vu0UwQF7vVk6uepC79VS8mTdERcVnzjErKyur/1zni6RsTvF5fPgAAAAASUVORK5CYII=" alt="css3">)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
